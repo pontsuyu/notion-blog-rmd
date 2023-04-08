@@ -1,14 +1,8 @@
 ---
-title: "blog20230408_01"
+title: "blog20230408-1"
 author: "tsuyupon"
 date: "2023-04-08"
-output:
-  knitrBootstrap::bootstrap_document:
-    title: "Test file"
-    theme: amelia
-    highlight: sunburst
-    theme.chooser: TRUE
-    highlight.chooser: TRUE
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
