@@ -2,7 +2,7 @@
 title: "blog20230408-1"
 author: "tsuyupon"
 date: "2023-04-08"
-output: pdf_document
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
